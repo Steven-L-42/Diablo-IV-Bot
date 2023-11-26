@@ -1,13 +1,17 @@
-# ChaosDungeon-Bot
+# Diablo 4 Bot - All in One
 
-### What needs to be fixed?
-- Check why Tasks buggy
-- Check why Timers buggy
+:warning: **Attention:** This repository contains the full-fledged Diablo 4 Bot, and it's now available for everyone!
 
-### What needs/should to be integrated?
+[Demo Video](https://www.youtube.com/watch?v=UY3jNfD4w4I)
 
-- [X] HWID Check (2 HWID's per User)
-- [ ] Is Game Running check (restart game or stop bot?)
-- [ ] Telegram / Discord Messages
-- [X] Virtualisation and Obfuscation to secure everything
-- [X] Integrate API instead of MySQL Connection
+**Current Features:**
+- :pizza: **Path Generator:** Generate a personalized automated route
+- :motorway: **Auto Pathfinding:** Go to your chosen target and fight if necessary
+- :octagonal_sign: **Auto Unstuck:** Unstuck itself after getting stucked for 6 seconds
+- :punch: **Auto Fight:** Fight wherever you are
+- :pill: **Auto Heal:** Heals when needed and as previously set
+- :ambulance: **Auto Revive:** Revives you when death catches up with you
+- :palm_down_hand: **Auto Pickup:** Pick up what you filtered
+- :toolbox: **Auto Repair:** Repairs your equipment when it is about to be destroyed
+
+Feel free to explore, contribute, and use it responsibly!
