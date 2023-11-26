@@ -1,0 +1,5 @@
+<project outputDir="G:\bot\ChaosDungeon-Bot\Confused" baseDir="G:\bot\ChaosDungeon-Bot" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="PixelAimbot\bin\x86\Release\Chaos-Bot.exe" />
+  <module path="packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll" />
+</project>
